@@ -1,25 +1,8 @@
 `timescale 1ns / 1ps
 
 ////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
 //
-// Create Date:   00:43:49 02/24/2021
-// Design Name:   Top
-// Module Name:   E:/ITI_references/Digital_IC_course/Verilog/Project/PCI/Top_tb.v
-// Project Name:  PCI
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: Top
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
+// PCI TARGET TESTBENCH THAT PERFORMS ALL FUNCTIONS OF MASTER 
 ////////////////////////////////////////////////////////////////////////////////
 
 module Top_tb;
