@@ -1,22 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    00:05:18 02/24/2021 
-// Design Name: 
-// Module Name:    Top 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
 //
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
+// PCI TARGET DEVICE TOP MODULE 
 //////////////////////////////////////////////////////////////////////////////////
 module Top(clk,rst,
 			  ad,c_be,
