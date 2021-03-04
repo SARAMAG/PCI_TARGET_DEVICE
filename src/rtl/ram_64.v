@@ -1,22 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
 // 
-// Create Date:    12:09:13 02/20/2021 
-// Design Name: 
-// Module Name:    sram 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
+//sram_64BIT 
 //////////////////////////////////////////////////////////////////////////////////
 module sram_64(
     input [63:0] data_in,
